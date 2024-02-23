@@ -41,4 +41,4 @@ After completing all questions, your final score will be displayed.
 Contributions are welcome! If you have any suggestions, enhancements, or bug fixes, please feel free to open an issue or create a pull request.
 
 ###Live Project
-[Project Live]()
+[Project Live](https://shinia-gupta.github.io/Quiz-Application/)
